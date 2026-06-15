@@ -4,7 +4,7 @@ APNA MART is a modern and responsive grocery shopping web application built usin
 
 ## 🚀 Live Demo
 
-https://sanjeetkumar989159-hub.github.io/APNA_mart-Grocery-/
+https://saijeeitokar369.github.io/Apna_Mart-Grocery/
 
 ## ✨ Features
 
